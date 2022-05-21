@@ -1,0 +1,21 @@
+.todo{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    border: 1px solid white;
+    width: 20%;
+    height: 50px;
+    background-color: teal;
+    color: white;
+    
+    
+}
+.todo>.btn{
+    justify-content: end;
+    height: 20px;
+    background-color: tomato;
+}
+
+.striked{
+    text-decoration: line-through;
+}
